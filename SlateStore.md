@@ -2,6 +2,8 @@
 
 One of the often mentioned problems with grin is impossibility of securely producing transaction while two parties are not online simultaneously. It is possible to use messenger applications to exchange slatepacks but that requires to partially reveal ones identity. Inspired by [this forum post](https://forum.grin.mw/t/the-non-existing-problem-with-interactive-transactions-ux-rant/8515/15?u=renzokuken) I had an idea to draft a protocol allowing to outsource the work of online listener in exchange for a fee paid in grin.
 
+Discussion on the [grin forum](https://forum.grin.mw/t/slatestore-protocol/9087).
+
 ## Example
 
 Let us consider a scenario involving three participants, Alice, Bob and Carol. Alice want's to send 5ツ to Bob and agrees to cover additional 0.023ツ network fee, but the problem is both Alice and Bob live in differrent timezones and they are rarely online simultaneously. Carol offered them help as a trustless intermediary who would help them interact for a small fee of 0.01ツ. The numbers here have been chosen to be arbitrary just for an example.
