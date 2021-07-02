@@ -1,6 +1,6 @@
 # SlateStore Protocol
 
-One of the often mentioned problems with grin is impossibility of securely producing transaction while two parties are not online simultaneously. It is possible to use messenger applications to exchange slatepacks but that requires to partially reveal ones identity. Inspired by [this forum post](https://forum.grin.mw/t/the-non-existing-problem-with-interactive-transactions-ux-rant/8515/15?u=renzokuken) I had an idea to draft a protocol allowing to outsource the work of online listener in exchange for a fee paid in grin.
+One of the often mentioned problems with grin is impossibility of securely producing transaction while two parties are not online simultaneously. It is possible to use messenger applications to exchange slatepacks but that requires to partially reveal one's identity. Inspired by [this forum post](https://forum.grin.mw/t/the-non-existing-problem-with-interactive-transactions-ux-rant/8515/15?u=renzokuken) I had an idea to draft a protocol allowing to outsource the work of online listener in exchange for a fee paid in grin.
 
 Discussion on the [grin forum](https://forum.grin.mw/t/slatestore-protocol/9087).
 
@@ -17,7 +17,7 @@ Protocol would go as follows
 
 ## Why it works
 
-Carol has an insentive to stay online for Bob as without interaction with Bob Carol wouldn't be able to get the 0.01ツ. This also happens to be in the best interest of both Alice and Bob.
+Carol has an incentive to stay online for Bob as without interaction with Bob Carol wouldn't be able to get the 0.01ツ. This also happens to be in the best interest of both Alice and Bob.
 
 ## Open questions
 
