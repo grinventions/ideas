@@ -22,3 +22,4 @@ Carol has an incentive to stay online for Bob as without interaction with Bob Ca
 ## Open questions
 
 1. Is it possible to make Carol finalize the transaction? That would elliminate step (4).
+2. How to efficiently let Bob prove being the receiver without revealing own slatepack address?
